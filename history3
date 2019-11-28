@@ -1,0 +1,155 @@
+    1  docker --version
+    2  su
+    3  ls
+    4  ls -a
+    5  history 
+    6  docker --version
+    7  tree
+    8  apt -get
+    9  sudo install
+   10  sudo install ftp
+   11  ls
+   12  mkdir
+   13  mkdir cla
+   14  ls
+   15  t
+   16  cut
+   17  cd ls -la
+   18  la
+   19  ls
+   20  ls -la
+   21  pwd
+   22  cd \
+   23  cd ..
+   24  ls
+   25  ls -la
+   26  ls -lo
+   27  ls -loa
+   28  ls -loas
+   29  tree
+   30  ls -la
+   31  ifconfig
+   32  ping 10.141.0.9
+   33  ping www.google.es
+   34  git --?
+   35  man gity
+   36  man git
+   37  exit
+   38  tar -xvf apache-maven-3.6.3-bin.tar.gz 
+   39  mvn
+   40  . .bashprofile
+   41  . .bash_profile
+   42  mvn
+   43  . ./bash_profile
+   44  . /.bash_profile
+   45  . .bash_profile
+   46  mvn
+   47  clear
+   48  mvn
+   49  echo %PATH
+   50  echo %path
+   51  . .bash_profile
+   52  mvn
+   53  . .bash_profile
+   54  tar -xvf incubating-netbeans-11.0-bin.zip 
+   55  locate java
+   56  sudo yum install java
+   57  java version
+   58  java -version
+   59  mvn
+   60  mvn --version
+   61  ls
+   62  ls Documents/
+   63  ls Downloads/
+   64  cd  Downloads/
+   65  cd ..
+   66  ls
+   67  ls -a
+   68  cd cla/
+   69  ls
+   70  git init
+   71  ls -la
+   72  cd .git
+   73  ls
+   74  tree
+   75  cd ..
+   76  pwd
+   77  cd ..
+   78  pwd
+   79  ssh -keygen -t RSA -b 4096 -c "claudioqg@gmail.com"
+   80  ssh -keygen -t RSA -b 4096 -C "claudioqg@gmail.com"
+   81  ssh-keygen -t RSA -b 4096 -C "claudioqg@gmail.com"
+   82  cd .ssh
+   83  ls
+   84  ls -la
+   85  cat id_rsa.pub
+   86  cd ..
+   87  pwd
+   88  md projects
+   89  mkdir projects
+   90  cd mk
+   91  cd projects/
+   92  ls
+   93  ls -la
+   94  mkdir java-console-app
+   95  ls -la
+   96  cd java-console-app/
+   97  pwd
+   98  git init
+   99  ls -la
+  100  ls -la -s
+  101  rm -rf .git
+  102  ls -la
+  103  git init --bare
+  104  ls -la
+  105  ls
+  106  cd HEAD
+  107  la
+  108  ls
+  109  rm -rf *
+  110  ls
+  111  ls -la
+  112  git init
+  113  ls -la
+  114  ls -la -git
+  115  ls  .git
+  116  ls  .git -las
+  117  ls  .git -la
+  118  tree
+  119  ls  .git -la
+  120  history >> history1
+  121  ls
+  122  ssh git@github.com:GittClau/java-console-app.git
+  123  mvn
+  124  . .bash_profile
+  125  mvn
+  126  . .bash_profile
+  127  mvn
+  128  where is java
+  129  java --version
+  130  java
+  131  java -version
+  132  vim
+  133  yum install vim
+  134  sudo yum install vim
+  135  vim
+  136  java --jdkhome
+  137  java -jdkhome
+  138  sudo yum install filezilla
+  139  filezilla
+  140  java version
+  141  java -version
+  142  exit
+  143  ifconfig
+  144  tar -xvf jdk-8u144-linux-x64.tar.gz 
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd projects/
+  149  ls
+  150  cd gc-personal-parent/
+  151  ls -la
+  152  mvn compile
+  153  mvn test
+  154  mvn install
+  155  history >> history3
